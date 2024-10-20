@@ -1,6 +1,6 @@
 # BTree Systems Python Bootcamp 2024
 
-Welcome to the repository for the **6-day Python Bootcamp** conducted at **BTree Systems** in 2024. This bootcamp was designed to take you from a beginner to an intermediate level in Python programming, providing hands-on experience in writing Python code and solving real-world problems.
+Welcome to the repository for the **6-days Python Bootcamp** conducted at **BTree Systems** in 2024. This bootcamp was designed to take you from a beginner to an intermediate level in Python programming, providing hands-on experience in writing Python code and solving real-world problems.
 
 ## About the Bootcamp
 
