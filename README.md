@@ -1,72 +1,107 @@
 # BTree Systems Python Bootcamp 2024
 
-Welcome to the repository for the **6-day Python Bootcamp** conducted at **BTree Systems** in 2024. This bootcamp was designed to provide a thorough understanding of Python programming, starting from the basics and progressing to advanced topics like Object-Oriented Programming (OOP) and File Handling. 
+Welcome to the repository for the **6-day Python Bootcamp** conducted at **BTree Systems** in 2024. This bootcamp was designed to take you from a beginner to an intermediate level in Python programming, providing hands-on experience in writing Python code and solving real-world problems.
 
 ## About the Bootcamp
 
-This bootcamp was aimed at both beginners and intermediate Python learners, covering essential concepts in Python programming. The sessions were interactive, with a mix of theory and hands-on coding exercises.
+This bootcamp is perfect for anyone looking to solidify their understanding of Python, starting from the basics and working up to more advanced concepts like Object-Oriented Programming (OOP), file handling, and exception handling. 
 
-### Bootcamp Overview
+### Day-by-Day Breakdown
 
-- **Day 1: Introduction to Python and Basic Syntax**
-  - Overview of Python, Installation, First Python Program
-  - Variables, Data Types, Type Casting
-  - Basic Input/Output Operations
+#### Day 1: "Getting Started with Python – Your First Step into Coding!"
 
-- **Day 2: Control Flow and Logical Operations**
-  - Conditionals (if, else, elif)
-  - Loops (for, while), break and continue statements
-  - Logical operations
+**Topics Covered:**
+- Introduction to Python
+- What is Python and Why Learn It?
+- Python Use Cases and Applications
+- Variables, Data Types, and Operators
+- Variables and Naming Conventions
+- Numeric, Text, and Boolean Data Types
+- Input and Output in Python
+  - Taking User Input
+  - Displaying Output with `print()`
 
-- **Day 3: Functions and Modular Programming**
-  - Defining and calling functions
-  - Parameters, return values, scope
-  - Modular programming and importing modules
+#### Day 2: "Data and Decisions – Mastering Control Flow!"
 
-- **Day 4: Data Structures - Lists and Tuples**
-  - Lists, Tuples, their operations and methods
-  - List comprehensions
+**Topics Covered:**
+- Conditional Statements in Python
+  - `if`, `else`, `elif` Statements
+  - Nested Conditions
+- Loops in Python
+  - `for` Loop
+  - `while` Loop
+  - `break`, `continue`, `pass`
+- Understanding Iterators and Iterables
+- Looping through Data Structures
 
-- **Day 5: Data Structures - Dictionaries and Sets**
-  - Dictionaries and their methods
-  - Sets and their operations
-  - Practical real-time tasks using these data structures
+#### Day 3: "Working with Collections – Organizing Data like a Pro!"
 
-- **Day 6: File Handling and Exception Handling**
-  - Opening, reading, writing files
-  - Handling exceptions gracefully
+**Topics Covered:**
+- Python Lists
+  - Creating and Accessing Lists
+  - List Methods (`append()`, `remove()`, `sort()`, etc.)
+  - List Comprehension
+- Tuples
+  - Creating and Accessing Tuples
+  - Tuple Unpacking
+- Sets
+  - Creating Sets
+  - Set Operations (Union, Intersection, Difference)
+- Dictionaries
+  - Creating and Accessing Dictionaries
+  - Modifying Dictionaries
+  - Nested Dictionaries
+
+#### Day 4: "Functions and Modules – Creating Reusable Code and Managing Data!"
+
+**Topics Covered:**
+- Functions in Python
+  - Defining and Calling Functions
+  - Function Arguments and Return Values
+- Python Modules
+  - Importing Modules
+  - Creating and Using Custom Modules
+- Random Module and its Use Cases
+
+#### Day 5: "Object-Oriented Python – Modeling the Real World!"
+
+**Topics Covered:**
+- Object-Oriented Programming (OOP) Basics
+  - Defining Classes and Creating Objects
+  - Attributes and Methods
+  - Constructors (`__init__`)
+- Inheritance in Python
+  - Single and Multiple Inheritance
+  - Multilevel Inheritance
+  - Hierarchical Inheritance
+  - Hybrid Inheritance
+
+#### Day 6: "Error Handling and Advanced Python Concepts!"
+
+**Topics Covered:**
+- Exception Handling in Python
+  - `try`, `except`, `else`, `finally` Blocks
+  - Raising Exceptions
+  - Handling Multiple Exceptions
+- File Handling
+  - Reading and Writing to Text Files
+  - Appending Data to Files
+  - Working with CSV Files
+  - Using Context Managers (`with` statement)
 
 ### Repository Contents
 
-This repository contains code examples, exercises, and mini-projects from the bootcamp:
+This repository contains code examples, exercises, and projects for each day:
 
-- **Day-1/Introduction-to-Python/**: Contains introductory examples, including simple programs and exercises.
-- **Day-2/Control-Flow/**: Code samples covering control flow statements and loops.
-- **Day-3/Functions/**: Functions with various examples, including parameterized functions and return statements.
-- **Day-4/Data-Structures-Lists-Tuples/**: Sample programs on Lists, Tuples, and list comprehensions.
-- **Day-5/Data-Structures-Dictionaries-Sets/**: Programs on working with Dictionaries and Sets.
-- **Day-6/File-Handling-and-Exceptions/**: Examples of file operations and exception handling mechanisms in Python.
-
-### Project Ideas Covered:
-
-- **Day-3 Mini Project: Name Generator**
-  - A simple name generator based on random combinations of predefined words.
-  
-- **Day-4 Mini Project: Pizza Order**
-  - A console-based application that simulates placing a pizza order.
-
-- **Day-5 Mini Project: Treasure Island Game**
-  - An interactive adventure game implemented using dictionaries and control structures.
-
-- **Day-6 Mini Project: Rock Paper Scissors Game**
-  - A simple game that simulates Rock-Paper-Scissors against a computer opponent.
-
-### About the Trainer
-
-This bootcamp was conducted by **Valluvan**, a Python developer and trainer with extensive experience in Python programming and web development. The code provided here reflects the practical approach taken during the sessions, emphasizing hands-on learning and real-time problem-solving.
+- **Day-1/Introduction-to-Python/**: Code examples and exercises covering basic Python syntax, variables, and I/O operations.
+- **Day-2/Control-Flow/**: Exercises on decision-making using conditionals and loops.
+- **Day-3/Collections/**: Programs for working with lists, tuples, sets, and dictionaries.
+- **Day-4/Functions-and-Modules/**: Code samples for defining functions and using/importing modules.
+- **Day-5/OOP/**: Exercises and projects demonstrating OOP principles and inheritance.
+- **Day-6/Error-Handling-and-File-Handling/**: Error handling examples and file operations (text files, CSV files).
 
 ### How to Use This Repository
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/btree-python-bootcamp-2024.git
+   git clone https://github.com/valluvan-dev/btree-python-bootcamp-2024.git
